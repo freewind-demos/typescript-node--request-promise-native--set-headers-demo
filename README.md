@@ -1,7 +1,7 @@
-TypeScript Node "request-promise-native" Demo
-=============================================
+TypeScript Node "request-promise-native" Set Headers Demo
+=========================================================
 
-让"request"支持async/await
+如何在request里设置header
 
 ```
 npm install
